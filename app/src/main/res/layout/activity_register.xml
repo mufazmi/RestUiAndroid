@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#edffe6"
-    tools:context=".RegisterActivity">
+    tools:context=".activity.RegisterActivity">
 
 
     <de.hdodenhof.circleimageview.CircleImageView
@@ -30,7 +30,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
-            android:layout_marginTop="25dp"
+            android:text="Social Codia"
             android:layout_marginRight="16dp"
             android:background="@drawable/bg_txt"
             android:ems="10"
@@ -43,6 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
+            android:text="socialcodia@gmail.com"
             android:layout_marginTop="25dp"
             android:layout_marginRight="16dp"
             android:background="@drawable/bg_txt"
@@ -56,6 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
+            android:text="farooqui"
             android:layout_marginTop="25dp"
             android:layout_marginRight="16dp"
             android:background="@drawable/bg_txt"

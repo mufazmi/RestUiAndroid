@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#edffe6"
-    tools:context=".LoginActivity">
+    tools:context=".activity.LoginActivity">
 
 
     <de.hdodenhof.circleimageview.CircleImageView
@@ -33,6 +33,7 @@
             android:layout_marginTop="25dp"
             android:layout_marginRight="16dp"
             android:background="@drawable/bg_txt"
+            android:text="socialcodia@gmail.com"
             android:ems="10"
             android:hint="Email Address"
             android:inputType="textEmailAddress"
@@ -42,6 +43,7 @@
             android:id="@+id/inputPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="farooqui"
             android:layout_marginLeft="16dp"
             android:layout_marginTop="25dp"
             android:layout_marginRight="16dp"
